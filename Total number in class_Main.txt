@@ -1,0 +1,34 @@
+Topics in whole Testing Concept:
+1. Java- 25 classes
+2. Selenium- 19 classes
+
+PROJECT:
+1. Data Driven_[MAVEN PROJECT]- 3 classes
+2. BaseClass_[MAVEN PROJECT]- 6 classes
+3. TestNG [Test Driven Development]_FRAMEWORK (15 Methods)_[MAVEN PROJECT]- Mani sir- 6 days, Arivu (IRetry analyser, Report, Assertions)-                                    Totally- 9 days classes_Arivu-3 days classes
+4. Cucumber[Behaviour Driven Development]_FRAMEWORK_[MAVEN PROJECT]- 13 days, mani- 3 days, arivu- 10 days
+5. API [Application Programming Interface]_Postman, RestAssured- 11 days classes
+6. Manual Testing-Agile methodology, Jira, Jenkins, GIT
+
+GIT:
+1. GIT- Version control software/system- 2 days
+    [Github- user friendly web application] 
+
+Jira:
+ 
+Jenkins:
+
+
+REAL TIME PROJECT:
+                September 15,2023- guru sir- Real time project explanation
+
+
+
+Extra Topics_[You-tube]:
+1. Java-Script executor
+2. SQL- Structured Query Language
+3. PlayWright- Advance [Tool] 
+
+Java Programs:
+ [39 Java programs]
+
